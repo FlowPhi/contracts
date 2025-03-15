@@ -24,7 +24,7 @@ https://docs.yearn.fi/developers/v3/protocol_fees
 - https://github.com/superform-xyz/super-vaults
 https://github.com/timeless-fi/yield-daddy
 
-## YieldNext
+## YieldNest
 
 - https://github.com/yieldnest/yieldnest-vault
 
