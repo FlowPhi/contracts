@@ -31,7 +31,9 @@ https://github.com/timeless-fi/yield-daddy
 ## YieldNest
 
 - https://github.com/yieldnest/yieldnest-vault
+
 "It extends the 4626 interfaces by allowing multiple assets to be added for deposit and allocation to strategies."
+
 Related: https://eips.ethereum.org/EIPS/eip-7575
 
 ## Morpho
